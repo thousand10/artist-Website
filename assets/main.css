@@ -1,0 +1,7 @@
+#hero{
+    height: 80vh;
+    background: url('~assets/bg1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
